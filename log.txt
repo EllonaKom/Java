@@ -1,0 +1,6 @@
+мар. 02, 2024 3:01:35 PM Prog25 writeFile
+SEVERE: java.io.FileNotFoundException: . (Отказано в доступе)
+мар. 02, 2024 3:01:35 PM Prog25 main
+INFO: Тест
+мар. 02, 2024 3:01:35 PM Prog25 main
+INFO: test
