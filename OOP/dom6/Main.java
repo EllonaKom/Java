@@ -1,8 +1,9 @@
-package OOP.dom4;
+package OOP.dom6;
 
-import OOP.dom4.Library;
-import OOP.dom4.LibraryCard;
-
+import OOP.dom6.Library;
+import OOP.dom6.LibraryBook;
+import OOP.dom6.LibraryCard;
+//import OOP.dom6.Order;
 
 // Создайте обобщенный класс Book<T>, который представляет книгу в библиотеке.
 // Каждая книга должна содержать параметр типа T для ее названия.

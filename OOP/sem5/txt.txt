@@ -1,0 +1,4 @@
+mvc - modelORdata, view, controller -> backend
+mvp - modelORdata,view, presenter -> desktop
+view -> controller -> modelORdata
+modelORdata -> controller -> view
