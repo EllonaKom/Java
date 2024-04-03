@@ -1,0 +1,3 @@
+<Ivanov><Ivan><Ivanovich><12.01.2022><1234567><m>
+<Ivanov><Andrey><Olegovich><11.01.2022><9999999><m>
+<Ivanov><Semen><Semenovich><04.03.2003><9999999><m>
